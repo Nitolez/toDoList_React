@@ -1,0 +1,11 @@
+h1{
+    color: #E83C86;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: beige;
+    border: 2px solid #E88E8A;
+    box-shadow:inset 0px 0px 20px #E88E8A;
+}
+*{
+    background-color: #E88E8A;
+}

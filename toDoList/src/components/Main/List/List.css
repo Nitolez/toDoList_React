@@ -1,0 +1,13 @@
+
+h3{
+    color: #8F2691;
+    background-color: antiquewhite;
+}
+article{
+    border: 2px solid #8F2691;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    box-shadow:inset 0px 0px 20px #8F2691;
+}
